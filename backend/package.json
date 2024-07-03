@@ -1,0 +1,11 @@
+{
+  "name": "todoapp-bkend",
+  "version": "1.0.0",
+  "description": "this is todoapp version 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek jachak",
+  "license": "ISC"
+}
